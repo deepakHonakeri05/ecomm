@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecomm/static/css/main.46ab6f56.css",
+    "main.js": "/ecomm/static/js/main.381cd11b.js",
+    "static/js/787.954ee95d.chunk.js": "/ecomm/static/js/787.954ee95d.chunk.js",
+    "static/media/upi.png": "/ecomm/static/media/upi.d3a286a0492bf361e8c9.png",
+    "index.html": "/ecomm/index.html",
+    "main.46ab6f56.css.map": "/ecomm/static/css/main.46ab6f56.css.map",
+    "main.381cd11b.js.map": "/ecomm/static/js/main.381cd11b.js.map",
+    "787.954ee95d.chunk.js.map": "/ecomm/static/js/787.954ee95d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46ab6f56.css",
+    "static/js/main.381cd11b.js"
+  ]
+}
